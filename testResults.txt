@@ -1,0 +1,1932 @@
+  600,    Rarely,0 -----> k= 1
+  600,    Rarely,0 -----> k= 3
+  600,    Rarely,0 -----> k= 5
+  600,    Rarely,0 -----> k= 7
+  600,    Rarely,0 -----> k= 9
+  600,    Rarely,0 -----> k= 11
+  600,    Rarely,0 -----> k= 13
+  600,    Rarely,0 -----> k= 15
+  600,    Rarely,0 -----> k= 17
+  600,    Rarely,0 -----> k= 19
+  600,    Rarely,0 -----> k= 21
+  600,    Rarely,0 -----> k= 23
+  600,    Rarely,0 -----> k= 25
+  600,    Rarely,0 -----> k= 27
+  600,    Rarely,0 -----> k= 29
+  600,    Rarely,0 -----> k= 31
+  600,    Rarely,0 -----> k= 33
+  600,    Rarely,0 -----> k= 35
+  600,    Rarely,0 -----> k= 37
+  600,    Rarely,0 -----> k= 39
+
+
+
+  600, Sometimes,0 -----> k= 1
+  600, Sometimes,0 -----> k= 3
+  600, Sometimes,0 -----> k= 5
+  600, Sometimes,0 -----> k= 7
+  600, Sometimes,0 -----> k= 9
+  600, Sometimes,0 -----> k= 11
+  600, Sometimes,0 -----> k= 13
+  600, Sometimes,0 -----> k= 15
+  600, Sometimes,0 -----> k= 17
+  600, Sometimes,0 -----> k= 19
+  600, Sometimes,0 -----> k= 21
+  600, Sometimes,0 -----> k= 23
+  600, Sometimes,0 -----> k= 25
+  600, Sometimes,0 -----> k= 27
+  600, Sometimes,0 -----> k= 29
+  600, Sometimes,0 -----> k= 31
+  600, Sometimes,0 -----> k= 33
+  600, Sometimes,0 -----> k= 35
+  600, Sometimes,0 -----> k= 37
+  600, Sometimes,0 -----> k= 39
+
+
+
+  600,     Often,0 -----> k= 1
+  600,     Often,0 -----> k= 3
+  600,     Often,0 -----> k= 5
+  600,     Often,0 -----> k= 7
+  600,     Often,0 -----> k= 9
+  600,     Often,0 -----> k= 11
+  600,     Often,0 -----> k= 13
+  600,     Often,0 -----> k= 15
+  600,     Often,0 -----> k= 17
+  600,     Often,0 -----> k= 19
+  600,     Often,0 -----> k= 21
+  600,     Often,0 -----> k= 23
+  600,     Often,0 -----> k= 25
+  600,     Often,0 -----> k= 27
+  600,     Often,0 -----> k= 29
+  600,     Often,0 -----> k= 31
+  600,     Often,0 -----> k= 33
+  600,     Often,0 -----> k= 35
+  600,     Often,0 -----> k= 37
+  600,     Often,0 -----> k= 39
+
+
+
+  600,Very often,0 -----> k= 1
+  600,Very often,0 -----> k= 3
+  600,Very often,0 -----> k= 5
+  600,Very often,0 -----> k= 7
+  600,Very often,0 -----> k= 9
+  600,Very often,0 -----> k= 11
+  600,Very often,0 -----> k= 13
+  600,Very often,0 -----> k= 15
+  600,Very often,0 -----> k= 17
+  600,Very often,0 -----> k= 19
+  600,Very often,0 -----> k= 21
+  600,Very often,0 -----> k= 23
+  600,Very often,0 -----> k= 25
+  600,Very often,0 -----> k= 27
+  600,Very often,0 -----> k= 29
+  600,Very often,0 -----> k= 31
+  600,Very often,0 -----> k= 33
+  600,Very often,0 -----> k= 35
+  600,Very often,0 -----> k= 37
+  600,Very often,0 -----> k= 39
+
+
+
+  650,    Rarely,0 -----> k= 1
+  650,    Rarely,0 -----> k= 3
+  650,    Rarely,0 -----> k= 5
+  650,    Rarely,0 -----> k= 7
+  650,    Rarely,0 -----> k= 9
+  650,    Rarely,0 -----> k= 11
+  650,    Rarely,0 -----> k= 13
+  650,    Rarely,0 -----> k= 15
+  650,    Rarely,0 -----> k= 17
+  650,    Rarely,0 -----> k= 19
+  650,    Rarely,0 -----> k= 21
+  650,    Rarely,0 -----> k= 23
+  650,    Rarely,0 -----> k= 25
+  650,    Rarely,0 -----> k= 27
+  650,    Rarely,0 -----> k= 29
+  650,    Rarely,0 -----> k= 31
+  650,    Rarely,0 -----> k= 33
+  650,    Rarely,0 -----> k= 35
+  650,    Rarely,0 -----> k= 37
+  650,    Rarely,0 -----> k= 39
+
+
+
+  650, Sometimes,0 -----> k= 1
+  650, Sometimes,0 -----> k= 3
+  650, Sometimes,0 -----> k= 5
+  650, Sometimes,0 -----> k= 7
+  650, Sometimes,0 -----> k= 9
+  650, Sometimes,0 -----> k= 11
+  650, Sometimes,0 -----> k= 13
+  650, Sometimes,0 -----> k= 15
+  650, Sometimes,0 -----> k= 17
+  650, Sometimes,0 -----> k= 19
+  650, Sometimes,0 -----> k= 21
+  650, Sometimes,0 -----> k= 23
+  650, Sometimes,0 -----> k= 25
+  650, Sometimes,0 -----> k= 27
+  650, Sometimes,0 -----> k= 29
+  650, Sometimes,0 -----> k= 31
+  650, Sometimes,0 -----> k= 33
+  650, Sometimes,0 -----> k= 35
+  650, Sometimes,0 -----> k= 37
+  650, Sometimes,0 -----> k= 39
+
+
+
+  650,     Often,0 -----> k= 1
+  650,     Often,0 -----> k= 3
+  650,     Often,0 -----> k= 5
+  650,     Often,0 -----> k= 7
+  650,     Often,0 -----> k= 9
+  650,     Often,0 -----> k= 11
+  650,     Often,0 -----> k= 13
+  650,     Often,0 -----> k= 15
+  650,     Often,0 -----> k= 17
+  650,     Often,0 -----> k= 19
+  650,     Often,0 -----> k= 21
+  650,     Often,0 -----> k= 23
+  650,     Often,0 -----> k= 25
+  650,     Often,0 -----> k= 27
+  650,     Often,0 -----> k= 29
+  650,     Often,0 -----> k= 31
+  650,     Often,0 -----> k= 33
+  650,     Often,0 -----> k= 35
+  650,     Often,0 -----> k= 37
+  650,     Often,0 -----> k= 39
+
+
+
+  650,Very often,0 -----> k= 1
+  650,Very often,0 -----> k= 3
+  650,Very often,0 -----> k= 5
+  650,Very often,0 -----> k= 7
+  650,Very often,0 -----> k= 9
+  650,Very often,0 -----> k= 11
+  650,Very often,0 -----> k= 13
+  650,Very often,0 -----> k= 15
+  650,Very often,0 -----> k= 17
+  650,Very often,0 -----> k= 19
+  650,Very often,0 -----> k= 21
+  650,Very often,0 -----> k= 23
+  650,Very often,0 -----> k= 25
+  650,Very often,0 -----> k= 27
+  650,Very often,0 -----> k= 29
+  650,Very often,0 -----> k= 31
+  650,Very often,0 -----> k= 33
+  650,Very often,0 -----> k= 35
+  650,Very often,0 -----> k= 37
+  650,Very often,0 -----> k= 39
+
+
+
+  700,    Rarely,0 -----> k= 1
+  700,    Rarely,0 -----> k= 3
+  700,    Rarely,0 -----> k= 5
+  700,    Rarely,0 -----> k= 7
+  700,    Rarely,0 -----> k= 9
+  700,    Rarely,0 -----> k= 11
+  700,    Rarely,0 -----> k= 13
+  700,    Rarely,0 -----> k= 15
+  700,    Rarely,0 -----> k= 17
+  700,    Rarely,0 -----> k= 19
+  700,    Rarely,0 -----> k= 21
+  700,    Rarely,0 -----> k= 23
+  700,    Rarely,0 -----> k= 25
+  700,    Rarely,0 -----> k= 27
+  700,    Rarely,0 -----> k= 29
+  700,    Rarely,0 -----> k= 31
+  700,    Rarely,0 -----> k= 33
+  700,    Rarely,0 -----> k= 35
+  700,    Rarely,0 -----> k= 37
+  700,    Rarely,0 -----> k= 39
+
+
+
+  700, Sometimes,0 -----> k= 1
+  700, Sometimes,0 -----> k= 3
+  700, Sometimes,0 -----> k= 5
+  700, Sometimes,0 -----> k= 7
+  700, Sometimes,0 -----> k= 9
+  700, Sometimes,0 -----> k= 11
+  700, Sometimes,0 -----> k= 13
+  700, Sometimes,0 -----> k= 15
+  700, Sometimes,0 -----> k= 17
+  700, Sometimes,0 -----> k= 19
+  700, Sometimes,0 -----> k= 21
+  700, Sometimes,0 -----> k= 23
+  700, Sometimes,0 -----> k= 25
+  700, Sometimes,0 -----> k= 27
+  700, Sometimes,0 -----> k= 29
+  700, Sometimes,0 -----> k= 31
+  700, Sometimes,0 -----> k= 33
+  700, Sometimes,0 -----> k= 35
+  700, Sometimes,0 -----> k= 37
+  700, Sometimes,0 -----> k= 39
+
+
+
+  700,     Often,0 -----> k= 1
+  700,     Often,0 -----> k= 3
+  700,     Often,0 -----> k= 5
+  700,     Often,0 -----> k= 7
+  700,     Often,0 -----> k= 9
+  700,     Often,0 -----> k= 11
+  700,     Often,0 -----> k= 13
+  700,     Often,0 -----> k= 15
+  700,     Often,0 -----> k= 17
+  700,     Often,0 -----> k= 19
+  700,     Often,0 -----> k= 21
+  700,     Often,0 -----> k= 23
+  700,     Often,0 -----> k= 25
+  700,     Often,0 -----> k= 27
+  700,     Often,0 -----> k= 29
+  700,     Often,0 -----> k= 31
+  700,     Often,0 -----> k= 33
+  700,     Often,0 -----> k= 35
+  700,     Often,0 -----> k= 37
+  700,     Often,0 -----> k= 39
+
+
+
+  700,Very often,0 -----> k= 1
+  700,Very often,0 -----> k= 3
+  700,Very often,0 -----> k= 5
+  700,Very often,0 -----> k= 7
+  700,Very often,0 -----> k= 9
+  700,Very often,0 -----> k= 11
+  700,Very often,0 -----> k= 13
+  700,Very often,0 -----> k= 15
+  700,Very often,0 -----> k= 17
+  700,Very often,0 -----> k= 19
+  700,Very often,0 -----> k= 21
+  700,Very often,0 -----> k= 23
+  700,Very often,0 -----> k= 25
+  700,Very often,0 -----> k= 27
+  700,Very often,0 -----> k= 29
+  700,Very often,0 -----> k= 31
+  700,Very often,0 -----> k= 33
+  700,Very often,0 -----> k= 35
+  700,Very often,0 -----> k= 37
+  700,Very often,0 -----> k= 39
+
+
+
+  750,    Rarely,0 -----> k= 1
+  750,    Rarely,0 -----> k= 3
+  750,    Rarely,0 -----> k= 5
+  750,    Rarely,0 -----> k= 7
+  750,    Rarely,0 -----> k= 9
+  750,    Rarely,0 -----> k= 11
+  750,    Rarely,0 -----> k= 13
+  750,    Rarely,0 -----> k= 15
+  750,    Rarely,0 -----> k= 17
+  750,    Rarely,0 -----> k= 19
+  750,    Rarely,0 -----> k= 21
+  750,    Rarely,0 -----> k= 23
+  750,    Rarely,0 -----> k= 25
+  750,    Rarely,0 -----> k= 27
+  750,    Rarely,0 -----> k= 29
+  750,    Rarely,0 -----> k= 31
+  750,    Rarely,0 -----> k= 33
+  750,    Rarely,0 -----> k= 35
+  750,    Rarely,0 -----> k= 37
+  750,    Rarely,0 -----> k= 39
+
+
+
+  750, Sometimes,0 -----> k= 1
+  750, Sometimes,0 -----> k= 3
+  750, Sometimes,0 -----> k= 5
+  750, Sometimes,0 -----> k= 7
+  750, Sometimes,0 -----> k= 9
+  750, Sometimes,0 -----> k= 11
+  750, Sometimes,0 -----> k= 13
+  750, Sometimes,0 -----> k= 15
+  750, Sometimes,0 -----> k= 17
+  750, Sometimes,0 -----> k= 19
+  750, Sometimes,0 -----> k= 21
+  750, Sometimes,0 -----> k= 23
+  750, Sometimes,0 -----> k= 25
+  750, Sometimes,0 -----> k= 27
+  750, Sometimes,0 -----> k= 29
+  750, Sometimes,0 -----> k= 31
+  750, Sometimes,0 -----> k= 33
+  750, Sometimes,0 -----> k= 35
+  750, Sometimes,0 -----> k= 37
+  750, Sometimes,0 -----> k= 39
+
+
+
+  750,     Often,0 -----> k= 1
+  750,     Often,0 -----> k= 3
+  750,     Often,0 -----> k= 5
+  750,     Often,0 -----> k= 7
+  750,     Often,0 -----> k= 9
+  750,     Often,0 -----> k= 11
+  750,     Often,0 -----> k= 13
+  750,     Often,0 -----> k= 15
+  750,     Often,0 -----> k= 17
+  750,     Often,0 -----> k= 19
+  750,     Often,0 -----> k= 21
+  750,     Often,0 -----> k= 23
+  750,     Often,0 -----> k= 25
+  750,     Often,0 -----> k= 27
+  750,     Often,0 -----> k= 29
+  750,     Often,0 -----> k= 31
+  750,     Often,0 -----> k= 33
+  750,     Often,0 -----> k= 35
+  750,     Often,0 -----> k= 37
+  750,     Often,0 -----> k= 39
+
+
+
+  750,Very often,0 -----> k= 1
+  750,Very often,0 -----> k= 3
+  750,Very often,0 -----> k= 5
+  750,Very often,0 -----> k= 7
+  750,Very often,0 -----> k= 9
+  750,Very often,0 -----> k= 11
+  750,Very often,0 -----> k= 13
+  750,Very often,0 -----> k= 15
+  750,Very often,0 -----> k= 17
+  750,Very often,0 -----> k= 19
+  750,Very often,0 -----> k= 21
+  750,Very often,0 -----> k= 23
+  750,Very often,0 -----> k= 25
+  750,Very often,0 -----> k= 27
+  750,Very often,0 -----> k= 29
+  750,Very often,0 -----> k= 31
+  750,Very often,0 -----> k= 33
+  750,Very often,0 -----> k= 35
+  750,Very often,0 -----> k= 37
+  750,Very often,0 -----> k= 39
+
+
+
+  800,    Rarely,0 -----> k= 1
+  800,    Rarely,0 -----> k= 3
+  800,    Rarely,0 -----> k= 5
+  800,    Rarely,0 -----> k= 7
+  800,    Rarely,0 -----> k= 9
+  800,    Rarely,0 -----> k= 11
+  800,    Rarely,0 -----> k= 13
+  800,    Rarely,0 -----> k= 15
+  800,    Rarely,0 -----> k= 17
+  800,    Rarely,0 -----> k= 19
+  800,    Rarely,0 -----> k= 21
+  800,    Rarely,0 -----> k= 23
+  800,    Rarely,0 -----> k= 25
+  800,    Rarely,0 -----> k= 27
+  800,    Rarely,0 -----> k= 29
+  800,    Rarely,0 -----> k= 31
+  800,    Rarely,0 -----> k= 33
+  800,    Rarely,0 -----> k= 35
+  800,    Rarely,0 -----> k= 37
+  800,    Rarely,0 -----> k= 39
+
+
+
+  800, Sometimes,0 -----> k= 1
+  800, Sometimes,0 -----> k= 3
+  800, Sometimes,0 -----> k= 5
+  800, Sometimes,0 -----> k= 7
+  800, Sometimes,0 -----> k= 9
+  800, Sometimes,0 -----> k= 11
+  800, Sometimes,0 -----> k= 13
+  800, Sometimes,0 -----> k= 15
+  800, Sometimes,0 -----> k= 17
+  800, Sometimes,0 -----> k= 19
+  800, Sometimes,0 -----> k= 21
+  800, Sometimes,0 -----> k= 23
+  800, Sometimes,0 -----> k= 25
+  800, Sometimes,0 -----> k= 27
+  800, Sometimes,0 -----> k= 29
+  800, Sometimes,0 -----> k= 31
+  800, Sometimes,0 -----> k= 33
+  800, Sometimes,0 -----> k= 35
+  800, Sometimes,0 -----> k= 37
+  800, Sometimes,0 -----> k= 39
+
+
+
+  800,     Often,0 -----> k= 1
+  800,     Often,0 -----> k= 3
+  800,     Often,0 -----> k= 5
+  800,     Often,0 -----> k= 7
+  800,     Often,0 -----> k= 9
+  800,     Often,0 -----> k= 11
+  800,     Often,0 -----> k= 13
+  800,     Often,0 -----> k= 15
+  800,     Often,0 -----> k= 17
+  800,     Often,0 -----> k= 19
+  800,     Often,0 -----> k= 21
+  800,     Often,0 -----> k= 23
+  800,     Often,0 -----> k= 25
+  800,     Often,0 -----> k= 27
+  800,     Often,0 -----> k= 29
+  800,     Often,0 -----> k= 31
+  800,     Often,0 -----> k= 33
+  800,     Often,0 -----> k= 35
+  800,     Often,0 -----> k= 37
+  800,     Often,0 -----> k= 39
+
+
+
+  800,Very often,0 -----> k= 1
+  800,Very often,0 -----> k= 3
+  800,Very often,0 -----> k= 5
+  800,Very often,0 -----> k= 7
+  800,Very often,0 -----> k= 9
+  800,Very often,0 -----> k= 11
+  800,Very often,0 -----> k= 13
+  800,Very often,0 -----> k= 15
+  800,Very often,0 -----> k= 17
+  800,Very often,0 -----> k= 19
+  800,Very often,0 -----> k= 21
+  800,Very often,0 -----> k= 23
+  800,Very often,0 -----> k= 25
+  800,Very often,0 -----> k= 27
+  800,Very often,0 -----> k= 29
+  800,Very often,0 -----> k= 31
+  800,Very often,0 -----> k= 33
+  800,Very often,0 -----> k= 35
+  800,Very often,0 -----> k= 37
+  800,Very often,0 -----> k= 39
+
+
+
+  850,    Rarely,1 -----> k= 1
+  850,    Rarely,0 -----> k= 3
+  850,    Rarely,0 -----> k= 5
+  850,    Rarely,0 -----> k= 7
+  850,    Rarely,0 -----> k= 9
+  850,    Rarely,0 -----> k= 11
+  850,    Rarely,0 -----> k= 13
+  850,    Rarely,0 -----> k= 15
+  850,    Rarely,0 -----> k= 17
+  850,    Rarely,0 -----> k= 19
+  850,    Rarely,0 -----> k= 21
+  850,    Rarely,0 -----> k= 23
+  850,    Rarely,0 -----> k= 25
+  850,    Rarely,0 -----> k= 27
+  850,    Rarely,0 -----> k= 29
+  850,    Rarely,0 -----> k= 31
+  850,    Rarely,0 -----> k= 33
+  850,    Rarely,0 -----> k= 35
+  850,    Rarely,0 -----> k= 37
+  850,    Rarely,0 -----> k= 39
+
+
+
+  850, Sometimes,0 -----> k= 1
+  850, Sometimes,0 -----> k= 3
+  850, Sometimes,0 -----> k= 5
+  850, Sometimes,0 -----> k= 7
+  850, Sometimes,0 -----> k= 9
+  850, Sometimes,0 -----> k= 11
+  850, Sometimes,0 -----> k= 13
+  850, Sometimes,0 -----> k= 15
+  850, Sometimes,0 -----> k= 17
+  850, Sometimes,0 -----> k= 19
+  850, Sometimes,0 -----> k= 21
+  850, Sometimes,0 -----> k= 23
+  850, Sometimes,0 -----> k= 25
+  850, Sometimes,0 -----> k= 27
+  850, Sometimes,0 -----> k= 29
+  850, Sometimes,0 -----> k= 31
+  850, Sometimes,0 -----> k= 33
+  850, Sometimes,0 -----> k= 35
+  850, Sometimes,0 -----> k= 37
+  850, Sometimes,0 -----> k= 39
+
+
+
+  850,     Often,0 -----> k= 1
+  850,     Often,0 -----> k= 3
+  850,     Often,0 -----> k= 5
+  850,     Often,0 -----> k= 7
+  850,     Often,0 -----> k= 9
+  850,     Often,0 -----> k= 11
+  850,     Often,0 -----> k= 13
+  850,     Often,0 -----> k= 15
+  850,     Often,0 -----> k= 17
+  850,     Often,0 -----> k= 19
+  850,     Often,0 -----> k= 21
+  850,     Often,0 -----> k= 23
+  850,     Often,0 -----> k= 25
+  850,     Often,0 -----> k= 27
+  850,     Often,0 -----> k= 29
+  850,     Often,0 -----> k= 31
+  850,     Often,0 -----> k= 33
+  850,     Often,0 -----> k= 35
+  850,     Often,0 -----> k= 37
+  850,     Often,0 -----> k= 39
+
+
+
+  850,Very often,0 -----> k= 1
+  850,Very often,0 -----> k= 3
+  850,Very often,0 -----> k= 5
+  850,Very often,0 -----> k= 7
+  850,Very often,0 -----> k= 9
+  850,Very often,0 -----> k= 11
+  850,Very often,0 -----> k= 13
+  850,Very often,0 -----> k= 15
+  850,Very often,1 -----> k= 17
+  850,Very often,1 -----> k= 19
+  850,Very often,0 -----> k= 21
+  850,Very often,0 -----> k= 23
+  850,Very often,0 -----> k= 25
+  850,Very often,0 -----> k= 27
+  850,Very often,0 -----> k= 29
+  850,Very often,1 -----> k= 31
+  850,Very often,0 -----> k= 33
+  850,Very often,0 -----> k= 35
+  850,Very often,0 -----> k= 37
+  850,Very often,0 -----> k= 39
+
+
+
+  900,    Rarely,1 -----> k= 1
+  900,    Rarely,0 -----> k= 3
+  900,    Rarely,0 -----> k= 5
+  900,    Rarely,0 -----> k= 7
+  900,    Rarely,0 -----> k= 9
+  900,    Rarely,0 -----> k= 11
+  900,    Rarely,0 -----> k= 13
+  900,    Rarely,0 -----> k= 15
+  900,    Rarely,0 -----> k= 17
+  900,    Rarely,0 -----> k= 19
+  900,    Rarely,0 -----> k= 21
+  900,    Rarely,0 -----> k= 23
+  900,    Rarely,0 -----> k= 25
+  900,    Rarely,0 -----> k= 27
+  900,    Rarely,0 -----> k= 29
+  900,    Rarely,0 -----> k= 31
+  900,    Rarely,0 -----> k= 33
+  900,    Rarely,0 -----> k= 35
+  900,    Rarely,0 -----> k= 37
+  900,    Rarely,0 -----> k= 39
+
+
+
+  900, Sometimes,0 -----> k= 1
+  900, Sometimes,0 -----> k= 3
+  900, Sometimes,0 -----> k= 5
+  900, Sometimes,0 -----> k= 7
+  900, Sometimes,0 -----> k= 9
+  900, Sometimes,0 -----> k= 11
+  900, Sometimes,0 -----> k= 13
+  900, Sometimes,0 -----> k= 15
+  900, Sometimes,0 -----> k= 17
+  900, Sometimes,0 -----> k= 19
+  900, Sometimes,0 -----> k= 21
+  900, Sometimes,0 -----> k= 23
+  900, Sometimes,0 -----> k= 25
+  900, Sometimes,0 -----> k= 27
+  900, Sometimes,0 -----> k= 29
+  900, Sometimes,0 -----> k= 31
+  900, Sometimes,0 -----> k= 33
+  900, Sometimes,0 -----> k= 35
+  900, Sometimes,0 -----> k= 37
+  900, Sometimes,0 -----> k= 39
+
+
+
+  900,     Often,0 -----> k= 1
+  900,     Often,0 -----> k= 3
+  900,     Often,0 -----> k= 5
+  900,     Often,0 -----> k= 7
+  900,     Often,0 -----> k= 9
+  900,     Often,0 -----> k= 11
+  900,     Often,0 -----> k= 13
+  900,     Often,0 -----> k= 15
+  900,     Often,0 -----> k= 17
+  900,     Often,0 -----> k= 19
+  900,     Often,0 -----> k= 21
+  900,     Often,0 -----> k= 23
+  900,     Often,0 -----> k= 25
+  900,     Often,0 -----> k= 27
+  900,     Often,0 -----> k= 29
+  900,     Often,0 -----> k= 31
+  900,     Often,0 -----> k= 33
+  900,     Often,0 -----> k= 35
+  900,     Often,0 -----> k= 37
+  900,     Often,0 -----> k= 39
+
+
+
+  900,Very often,0 -----> k= 1
+  900,Very often,0 -----> k= 3
+  900,Very often,0 -----> k= 5
+  900,Very often,0 -----> k= 7
+  900,Very often,0 -----> k= 9
+  900,Very often,0 -----> k= 11
+  900,Very often,0 -----> k= 13
+  900,Very often,0 -----> k= 15
+  900,Very often,1 -----> k= 17
+  900,Very often,1 -----> k= 19
+  900,Very often,1 -----> k= 21
+  900,Very often,1 -----> k= 23
+  900,Very often,0 -----> k= 25
+  900,Very often,0 -----> k= 27
+  900,Very often,0 -----> k= 29
+  900,Very often,1 -----> k= 31
+  900,Very often,0 -----> k= 33
+  900,Very often,0 -----> k= 35
+  900,Very often,0 -----> k= 37
+  900,Very often,0 -----> k= 39
+
+
+
+  950,    Rarely,1 -----> k= 1
+  950,    Rarely,0 -----> k= 3
+  950,    Rarely,0 -----> k= 5
+  950,    Rarely,0 -----> k= 7
+  950,    Rarely,0 -----> k= 9
+  950,    Rarely,0 -----> k= 11
+  950,    Rarely,0 -----> k= 13
+  950,    Rarely,0 -----> k= 15
+  950,    Rarely,0 -----> k= 17
+  950,    Rarely,0 -----> k= 19
+  950,    Rarely,0 -----> k= 21
+  950,    Rarely,0 -----> k= 23
+  950,    Rarely,0 -----> k= 25
+  950,    Rarely,0 -----> k= 27
+  950,    Rarely,0 -----> k= 29
+  950,    Rarely,0 -----> k= 31
+  950,    Rarely,0 -----> k= 33
+  950,    Rarely,0 -----> k= 35
+  950,    Rarely,0 -----> k= 37
+  950,    Rarely,0 -----> k= 39
+
+
+
+  950, Sometimes,0 -----> k= 1
+  950, Sometimes,0 -----> k= 3
+  950, Sometimes,0 -----> k= 5
+  950, Sometimes,0 -----> k= 7
+  950, Sometimes,0 -----> k= 9
+  950, Sometimes,0 -----> k= 11
+  950, Sometimes,0 -----> k= 13
+  950, Sometimes,0 -----> k= 15
+  950, Sometimes,0 -----> k= 17
+  950, Sometimes,0 -----> k= 19
+  950, Sometimes,0 -----> k= 21
+  950, Sometimes,0 -----> k= 23
+  950, Sometimes,0 -----> k= 25
+  950, Sometimes,0 -----> k= 27
+  950, Sometimes,0 -----> k= 29
+  950, Sometimes,0 -----> k= 31
+  950, Sometimes,0 -----> k= 33
+  950, Sometimes,0 -----> k= 35
+  950, Sometimes,0 -----> k= 37
+  950, Sometimes,0 -----> k= 39
+
+
+
+  950,     Often,0 -----> k= 1
+  950,     Often,0 -----> k= 3
+  950,     Often,0 -----> k= 5
+  950,     Often,0 -----> k= 7
+  950,     Often,0 -----> k= 9
+  950,     Often,0 -----> k= 11
+  950,     Often,0 -----> k= 13
+  950,     Often,0 -----> k= 15
+  950,     Often,0 -----> k= 17
+  950,     Often,0 -----> k= 19
+  950,     Often,0 -----> k= 21
+  950,     Often,0 -----> k= 23
+  950,     Often,0 -----> k= 25
+  950,     Often,0 -----> k= 27
+  950,     Often,0 -----> k= 29
+  950,     Often,0 -----> k= 31
+  950,     Often,0 -----> k= 33
+  950,     Often,0 -----> k= 35
+  950,     Often,0 -----> k= 37
+  950,     Often,0 -----> k= 39
+
+
+
+  950,Very often,0 -----> k= 1
+  950,Very often,0 -----> k= 3
+  950,Very often,0 -----> k= 5
+  950,Very often,0 -----> k= 7
+  950,Very often,0 -----> k= 9
+  950,Very often,0 -----> k= 11
+  950,Very often,0 -----> k= 13
+  950,Very often,0 -----> k= 15
+  950,Very often,1 -----> k= 17
+  950,Very often,1 -----> k= 19
+  950,Very often,1 -----> k= 21
+  950,Very often,1 -----> k= 23
+  950,Very often,1 -----> k= 25
+  950,Very often,1 -----> k= 27
+  950,Very often,0 -----> k= 29
+  950,Very often,1 -----> k= 31
+  950,Very often,0 -----> k= 33
+  950,Very often,0 -----> k= 35
+  950,Very often,0 -----> k= 37
+  950,Very often,0 -----> k= 39
+
+
+
+ 1000,    Rarely,1 -----> k= 1
+ 1000,    Rarely,1 -----> k= 3
+ 1000,    Rarely,1 -----> k= 5
+ 1000,    Rarely,1 -----> k= 7
+ 1000,    Rarely,0 -----> k= 9
+ 1000,    Rarely,0 -----> k= 11
+ 1000,    Rarely,0 -----> k= 13
+ 1000,    Rarely,0 -----> k= 15
+ 1000,    Rarely,0 -----> k= 17
+ 1000,    Rarely,0 -----> k= 19
+ 1000,    Rarely,0 -----> k= 21
+ 1000,    Rarely,0 -----> k= 23
+ 1000,    Rarely,0 -----> k= 25
+ 1000,    Rarely,0 -----> k= 27
+ 1000,    Rarely,0 -----> k= 29
+ 1000,    Rarely,0 -----> k= 31
+ 1000,    Rarely,0 -----> k= 33
+ 1000,    Rarely,0 -----> k= 35
+ 1000,    Rarely,0 -----> k= 37
+ 1000,    Rarely,0 -----> k= 39
+
+
+
+ 1000, Sometimes,1 -----> k= 1
+ 1000, Sometimes,0 -----> k= 3
+ 1000, Sometimes,0 -----> k= 5
+ 1000, Sometimes,0 -----> k= 7
+ 1000, Sometimes,0 -----> k= 9
+ 1000, Sometimes,0 -----> k= 11
+ 1000, Sometimes,0 -----> k= 13
+ 1000, Sometimes,0 -----> k= 15
+ 1000, Sometimes,0 -----> k= 17
+ 1000, Sometimes,0 -----> k= 19
+ 1000, Sometimes,0 -----> k= 21
+ 1000, Sometimes,0 -----> k= 23
+ 1000, Sometimes,0 -----> k= 25
+ 1000, Sometimes,0 -----> k= 27
+ 1000, Sometimes,0 -----> k= 29
+ 1000, Sometimes,0 -----> k= 31
+ 1000, Sometimes,0 -----> k= 33
+ 1000, Sometimes,0 -----> k= 35
+ 1000, Sometimes,0 -----> k= 37
+ 1000, Sometimes,0 -----> k= 39
+
+
+
+ 1000,     Often,0 -----> k= 1
+ 1000,     Often,1 -----> k= 3
+ 1000,     Often,1 -----> k= 5
+ 1000,     Often,1 -----> k= 7
+ 1000,     Often,0 -----> k= 9
+ 1000,     Often,0 -----> k= 11
+ 1000,     Often,0 -----> k= 13
+ 1000,     Often,0 -----> k= 15
+ 1000,     Often,0 -----> k= 17
+ 1000,     Often,0 -----> k= 19
+ 1000,     Often,0 -----> k= 21
+ 1000,     Often,0 -----> k= 23
+ 1000,     Often,0 -----> k= 25
+ 1000,     Often,0 -----> k= 27
+ 1000,     Often,0 -----> k= 29
+ 1000,     Often,1 -----> k= 31
+ 1000,     Often,1 -----> k= 33
+ 1000,     Often,1 -----> k= 35
+ 1000,     Often,0 -----> k= 37
+ 1000,     Often,0 -----> k= 39
+
+
+
+ 1000,Very often,0 -----> k= 1
+ 1000,Very often,0 -----> k= 3
+ 1000,Very often,0 -----> k= 5
+ 1000,Very often,0 -----> k= 7
+ 1000,Very often,0 -----> k= 9
+ 1000,Very often,1 -----> k= 11
+ 1000,Very often,1 -----> k= 13
+ 1000,Very often,1 -----> k= 15
+ 1000,Very often,1 -----> k= 17
+ 1000,Very often,1 -----> k= 19
+ 1000,Very often,1 -----> k= 21
+ 1000,Very often,1 -----> k= 23
+ 1000,Very often,1 -----> k= 25
+ 1000,Very often,1 -----> k= 27
+ 1000,Very often,0 -----> k= 29
+ 1000,Very often,1 -----> k= 31
+ 1000,Very often,1 -----> k= 33
+ 1000,Very often,1 -----> k= 35
+ 1000,Very often,0 -----> k= 37
+ 1000,Very often,0 -----> k= 39
+
+
+
+ 1050,    Rarely,1 -----> k= 1
+ 1050,    Rarely,1 -----> k= 3
+ 1050,    Rarely,1 -----> k= 5
+ 1050,    Rarely,1 -----> k= 7
+ 1050,    Rarely,1 -----> k= 9
+ 1050,    Rarely,1 -----> k= 11
+ 1050,    Rarely,0 -----> k= 13
+ 1050,    Rarely,0 -----> k= 15
+ 1050,    Rarely,0 -----> k= 17
+ 1050,    Rarely,0 -----> k= 19
+ 1050,    Rarely,0 -----> k= 21
+ 1050,    Rarely,0 -----> k= 23
+ 1050,    Rarely,0 -----> k= 25
+ 1050,    Rarely,0 -----> k= 27
+ 1050,    Rarely,0 -----> k= 29
+ 1050,    Rarely,0 -----> k= 31
+ 1050,    Rarely,0 -----> k= 33
+ 1050,    Rarely,0 -----> k= 35
+ 1050,    Rarely,0 -----> k= 37
+ 1050,    Rarely,0 -----> k= 39
+
+
+
+ 1050, Sometimes,0 -----> k= 1
+ 1050, Sometimes,0 -----> k= 3
+ 1050, Sometimes,0 -----> k= 5
+ 1050, Sometimes,0 -----> k= 7
+ 1050, Sometimes,0 -----> k= 9
+ 1050, Sometimes,1 -----> k= 11
+ 1050, Sometimes,1 -----> k= 13
+ 1050, Sometimes,1 -----> k= 15
+ 1050, Sometimes,1 -----> k= 17
+ 1050, Sometimes,1 -----> k= 19
+ 1050, Sometimes,1 -----> k= 21
+ 1050, Sometimes,0 -----> k= 23
+ 1050, Sometimes,0 -----> k= 25
+ 1050, Sometimes,0 -----> k= 27
+ 1050, Sometimes,0 -----> k= 29
+ 1050, Sometimes,0 -----> k= 31
+ 1050, Sometimes,0 -----> k= 33
+ 1050, Sometimes,0 -----> k= 35
+ 1050, Sometimes,0 -----> k= 37
+ 1050, Sometimes,0 -----> k= 39
+
+
+
+ 1050,     Often,1 -----> k= 1
+ 1050,     Often,1 -----> k= 3
+ 1050,     Often,1 -----> k= 5
+ 1050,     Often,1 -----> k= 7
+ 1050,     Often,1 -----> k= 9
+ 1050,     Often,0 -----> k= 11
+ 1050,     Often,0 -----> k= 13
+ 1050,     Often,0 -----> k= 15
+ 1050,     Often,1 -----> k= 17
+ 1050,     Often,1 -----> k= 19
+ 1050,     Often,0 -----> k= 21
+ 1050,     Often,0 -----> k= 23
+ 1050,     Often,0 -----> k= 25
+ 1050,     Often,1 -----> k= 27
+ 1050,     Often,0 -----> k= 29
+ 1050,     Often,1 -----> k= 31
+ 1050,     Often,1 -----> k= 33
+ 1050,     Often,1 -----> k= 35
+ 1050,     Often,1 -----> k= 37
+ 1050,     Often,0 -----> k= 39
+
+
+
+ 1050,Very often,0 -----> k= 1
+ 1050,Very often,0 -----> k= 3
+ 1050,Very often,1 -----> k= 5
+ 1050,Very often,1 -----> k= 7
+ 1050,Very often,0 -----> k= 9
+ 1050,Very often,1 -----> k= 11
+ 1050,Very often,1 -----> k= 13
+ 1050,Very often,1 -----> k= 15
+ 1050,Very often,1 -----> k= 17
+ 1050,Very often,1 -----> k= 19
+ 1050,Very often,1 -----> k= 21
+ 1050,Very often,1 -----> k= 23
+ 1050,Very often,1 -----> k= 25
+ 1050,Very often,1 -----> k= 27
+ 1050,Very often,1 -----> k= 29
+ 1050,Very often,1 -----> k= 31
+ 1050,Very often,1 -----> k= 33
+ 1050,Very often,1 -----> k= 35
+ 1050,Very often,1 -----> k= 37
+ 1050,Very often,0 -----> k= 39
+
+
+
+ 1100,    Rarely,1 -----> k= 1
+ 1100,    Rarely,1 -----> k= 3
+ 1100,    Rarely,1 -----> k= 5
+ 1100,    Rarely,1 -----> k= 7
+ 1100,    Rarely,1 -----> k= 9
+ 1100,    Rarely,1 -----> k= 11
+ 1100,    Rarely,1 -----> k= 13
+ 1100,    Rarely,1 -----> k= 15
+ 1100,    Rarely,0 -----> k= 17
+ 1100,    Rarely,0 -----> k= 19
+ 1100,    Rarely,0 -----> k= 21
+ 1100,    Rarely,0 -----> k= 23
+ 1100,    Rarely,0 -----> k= 25
+ 1100,    Rarely,0 -----> k= 27
+ 1100,    Rarely,0 -----> k= 29
+ 1100,    Rarely,0 -----> k= 31
+ 1100,    Rarely,0 -----> k= 33
+ 1100,    Rarely,0 -----> k= 35
+ 1100,    Rarely,1 -----> k= 37
+ 1100,    Rarely,0 -----> k= 39
+
+
+
+ 1100, Sometimes,0 -----> k= 1
+ 1100, Sometimes,0 -----> k= 3
+ 1100, Sometimes,0 -----> k= 5
+ 1100, Sometimes,0 -----> k= 7
+ 1100, Sometimes,1 -----> k= 9
+ 1100, Sometimes,1 -----> k= 11
+ 1100, Sometimes,1 -----> k= 13
+ 1100, Sometimes,1 -----> k= 15
+ 1100, Sometimes,1 -----> k= 17
+ 1100, Sometimes,1 -----> k= 19
+ 1100, Sometimes,1 -----> k= 21
+ 1100, Sometimes,1 -----> k= 23
+ 1100, Sometimes,0 -----> k= 25
+ 1100, Sometimes,1 -----> k= 27
+ 1100, Sometimes,0 -----> k= 29
+ 1100, Sometimes,0 -----> k= 31
+ 1100, Sometimes,0 -----> k= 33
+ 1100, Sometimes,0 -----> k= 35
+ 1100, Sometimes,1 -----> k= 37
+ 1100, Sometimes,0 -----> k= 39
+
+
+
+ 1100,     Often,1 -----> k= 1
+ 1100,     Often,1 -----> k= 3
+ 1100,     Often,1 -----> k= 5
+ 1100,     Often,1 -----> k= 7
+ 1100,     Often,1 -----> k= 9
+ 1100,     Often,1 -----> k= 11
+ 1100,     Often,1 -----> k= 13
+ 1100,     Often,1 -----> k= 15
+ 1100,     Often,1 -----> k= 17
+ 1100,     Often,1 -----> k= 19
+ 1100,     Often,1 -----> k= 21
+ 1100,     Often,1 -----> k= 23
+ 1100,     Often,1 -----> k= 25
+ 1100,     Often,1 -----> k= 27
+ 1100,     Often,1 -----> k= 29
+ 1100,     Often,1 -----> k= 31
+ 1100,     Often,1 -----> k= 33
+ 1100,     Often,1 -----> k= 35
+ 1100,     Often,1 -----> k= 37
+ 1100,     Often,1 -----> k= 39
+
+
+
+ 1100,Very often,0 -----> k= 1
+ 1100,Very often,0 -----> k= 3
+ 1100,Very often,1 -----> k= 5
+ 1100,Very often,1 -----> k= 7
+ 1100,Very often,1 -----> k= 9
+ 1100,Very often,1 -----> k= 11
+ 1100,Very often,1 -----> k= 13
+ 1100,Very often,1 -----> k= 15
+ 1100,Very often,1 -----> k= 17
+ 1100,Very often,1 -----> k= 19
+ 1100,Very often,1 -----> k= 21
+ 1100,Very often,1 -----> k= 23
+ 1100,Very often,1 -----> k= 25
+ 1100,Very often,1 -----> k= 27
+ 1100,Very often,1 -----> k= 29
+ 1100,Very often,1 -----> k= 31
+ 1100,Very often,1 -----> k= 33
+ 1100,Very often,1 -----> k= 35
+ 1100,Very often,1 -----> k= 37
+ 1100,Very often,1 -----> k= 39
+
+
+
+ 1150,    Rarely,1 -----> k= 1
+ 1150,    Rarely,1 -----> k= 3
+ 1150,    Rarely,1 -----> k= 5
+ 1150,    Rarely,1 -----> k= 7
+ 1150,    Rarely,1 -----> k= 9
+ 1150,    Rarely,1 -----> k= 11
+ 1150,    Rarely,1 -----> k= 13
+ 1150,    Rarely,1 -----> k= 15
+ 1150,    Rarely,0 -----> k= 17
+ 1150,    Rarely,0 -----> k= 19
+ 1150,    Rarely,0 -----> k= 21
+ 1150,    Rarely,0 -----> k= 23
+ 1150,    Rarely,0 -----> k= 25
+ 1150,    Rarely,1 -----> k= 27
+ 1150,    Rarely,0 -----> k= 29
+ 1150,    Rarely,0 -----> k= 31
+ 1150,    Rarely,0 -----> k= 33
+ 1150,    Rarely,0 -----> k= 35
+ 1150,    Rarely,1 -----> k= 37
+ 1150,    Rarely,1 -----> k= 39
+
+
+
+ 1150, Sometimes,0 -----> k= 1
+ 1150, Sometimes,0 -----> k= 3
+ 1150, Sometimes,0 -----> k= 5
+ 1150, Sometimes,1 -----> k= 7
+ 1150, Sometimes,1 -----> k= 9
+ 1150, Sometimes,1 -----> k= 11
+ 1150, Sometimes,1 -----> k= 13
+ 1150, Sometimes,1 -----> k= 15
+ 1150, Sometimes,1 -----> k= 17
+ 1150, Sometimes,1 -----> k= 19
+ 1150, Sometimes,1 -----> k= 21
+ 1150, Sometimes,1 -----> k= 23
+ 1150, Sometimes,1 -----> k= 25
+ 1150, Sometimes,1 -----> k= 27
+ 1150, Sometimes,0 -----> k= 29
+ 1150, Sometimes,0 -----> k= 31
+ 1150, Sometimes,0 -----> k= 33
+ 1150, Sometimes,0 -----> k= 35
+ 1150, Sometimes,1 -----> k= 37
+ 1150, Sometimes,1 -----> k= 39
+
+
+
+ 1150,     Often,1 -----> k= 1
+ 1150,     Often,1 -----> k= 3
+ 1150,     Often,1 -----> k= 5
+ 1150,     Often,1 -----> k= 7
+ 1150,     Often,1 -----> k= 9
+ 1150,     Often,1 -----> k= 11
+ 1150,     Often,1 -----> k= 13
+ 1150,     Often,1 -----> k= 15
+ 1150,     Often,1 -----> k= 17
+ 1150,     Often,1 -----> k= 19
+ 1150,     Often,1 -----> k= 21
+ 1150,     Often,1 -----> k= 23
+ 1150,     Often,1 -----> k= 25
+ 1150,     Often,1 -----> k= 27
+ 1150,     Often,1 -----> k= 29
+ 1150,     Often,1 -----> k= 31
+ 1150,     Often,1 -----> k= 33
+ 1150,     Often,1 -----> k= 35
+ 1150,     Often,1 -----> k= 37
+ 1150,     Often,1 -----> k= 39
+
+
+
+ 1150,Very often,0 -----> k= 1
+ 1150,Very often,1 -----> k= 3
+ 1150,Very often,1 -----> k= 5
+ 1150,Very often,1 -----> k= 7
+ 1150,Very often,1 -----> k= 9
+ 1150,Very often,1 -----> k= 11
+ 1150,Very often,1 -----> k= 13
+ 1150,Very often,1 -----> k= 15
+ 1150,Very often,1 -----> k= 17
+ 1150,Very often,1 -----> k= 19
+ 1150,Very often,1 -----> k= 21
+ 1150,Very often,1 -----> k= 23
+ 1150,Very often,1 -----> k= 25
+ 1150,Very often,1 -----> k= 27
+ 1150,Very often,1 -----> k= 29
+ 1150,Very often,1 -----> k= 31
+ 1150,Very often,1 -----> k= 33
+ 1150,Very often,1 -----> k= 35
+ 1150,Very often,1 -----> k= 37
+ 1150,Very often,1 -----> k= 39
+
+
+
+ 1200,    Rarely,1 -----> k= 1
+ 1200,    Rarely,1 -----> k= 3
+ 1200,    Rarely,1 -----> k= 5
+ 1200,    Rarely,1 -----> k= 7
+ 1200,    Rarely,1 -----> k= 9
+ 1200,    Rarely,1 -----> k= 11
+ 1200,    Rarely,1 -----> k= 13
+ 1200,    Rarely,1 -----> k= 15
+ 1200,    Rarely,0 -----> k= 17
+ 1200,    Rarely,0 -----> k= 19
+ 1200,    Rarely,1 -----> k= 21
+ 1200,    Rarely,1 -----> k= 23
+ 1200,    Rarely,0 -----> k= 25
+ 1200,    Rarely,1 -----> k= 27
+ 1200,    Rarely,0 -----> k= 29
+ 1200,    Rarely,0 -----> k= 31
+ 1200,    Rarely,0 -----> k= 33
+ 1200,    Rarely,0 -----> k= 35
+ 1200,    Rarely,1 -----> k= 37
+ 1200,    Rarely,1 -----> k= 39
+
+
+
+ 1200, Sometimes,0 -----> k= 1
+ 1200, Sometimes,0 -----> k= 3
+ 1200, Sometimes,1 -----> k= 5
+ 1200, Sometimes,1 -----> k= 7
+ 1200, Sometimes,1 -----> k= 9
+ 1200, Sometimes,1 -----> k= 11
+ 1200, Sometimes,1 -----> k= 13
+ 1200, Sometimes,1 -----> k= 15
+ 1200, Sometimes,1 -----> k= 17
+ 1200, Sometimes,1 -----> k= 19
+ 1200, Sometimes,1 -----> k= 21
+ 1200, Sometimes,1 -----> k= 23
+ 1200, Sometimes,1 -----> k= 25
+ 1200, Sometimes,1 -----> k= 27
+ 1200, Sometimes,1 -----> k= 29
+ 1200, Sometimes,1 -----> k= 31
+ 1200, Sometimes,1 -----> k= 33
+ 1200, Sometimes,0 -----> k= 35
+ 1200, Sometimes,1 -----> k= 37
+ 1200, Sometimes,1 -----> k= 39
+
+
+
+ 1200,     Often,1 -----> k= 1
+ 1200,     Often,1 -----> k= 3
+ 1200,     Often,1 -----> k= 5
+ 1200,     Often,1 -----> k= 7
+ 1200,     Often,1 -----> k= 9
+ 1200,     Often,1 -----> k= 11
+ 1200,     Often,1 -----> k= 13
+ 1200,     Often,1 -----> k= 15
+ 1200,     Often,1 -----> k= 17
+ 1200,     Often,1 -----> k= 19
+ 1200,     Often,1 -----> k= 21
+ 1200,     Often,1 -----> k= 23
+ 1200,     Often,1 -----> k= 25
+ 1200,     Often,1 -----> k= 27
+ 1200,     Often,1 -----> k= 29
+ 1200,     Often,1 -----> k= 31
+ 1200,     Often,1 -----> k= 33
+ 1200,     Often,1 -----> k= 35
+ 1200,     Often,1 -----> k= 37
+ 1200,     Often,1 -----> k= 39
+
+
+
+ 1200,Very often,0 -----> k= 1
+ 1200,Very often,1 -----> k= 3
+ 1200,Very often,1 -----> k= 5
+ 1200,Very often,1 -----> k= 7
+ 1200,Very often,1 -----> k= 9
+ 1200,Very often,1 -----> k= 11
+ 1200,Very often,1 -----> k= 13
+ 1200,Very often,1 -----> k= 15
+ 1200,Very often,1 -----> k= 17
+ 1200,Very often,1 -----> k= 19
+ 1200,Very often,1 -----> k= 21
+ 1200,Very often,1 -----> k= 23
+ 1200,Very often,1 -----> k= 25
+ 1200,Very often,1 -----> k= 27
+ 1200,Very often,1 -----> k= 29
+ 1200,Very often,1 -----> k= 31
+ 1200,Very often,1 -----> k= 33
+ 1200,Very often,1 -----> k= 35
+ 1200,Very often,1 -----> k= 37
+ 1200,Very often,1 -----> k= 39
+
+
+
+ 1250,    Rarely,1 -----> k= 1
+ 1250,    Rarely,1 -----> k= 3
+ 1250,    Rarely,1 -----> k= 5
+ 1250,    Rarely,1 -----> k= 7
+ 1250,    Rarely,1 -----> k= 9
+ 1250,    Rarely,1 -----> k= 11
+ 1250,    Rarely,1 -----> k= 13
+ 1250,    Rarely,1 -----> k= 15
+ 1250,    Rarely,1 -----> k= 17
+ 1250,    Rarely,1 -----> k= 19
+ 1250,    Rarely,1 -----> k= 21
+ 1250,    Rarely,1 -----> k= 23
+ 1250,    Rarely,1 -----> k= 25
+ 1250,    Rarely,1 -----> k= 27
+ 1250,    Rarely,0 -----> k= 29
+ 1250,    Rarely,0 -----> k= 31
+ 1250,    Rarely,0 -----> k= 33
+ 1250,    Rarely,1 -----> k= 35
+ 1250,    Rarely,1 -----> k= 37
+ 1250,    Rarely,1 -----> k= 39
+
+
+
+ 1250, Sometimes,1 -----> k= 1
+ 1250, Sometimes,0 -----> k= 3
+ 1250, Sometimes,1 -----> k= 5
+ 1250, Sometimes,1 -----> k= 7
+ 1250, Sometimes,1 -----> k= 9
+ 1250, Sometimes,1 -----> k= 11
+ 1250, Sometimes,1 -----> k= 13
+ 1250, Sometimes,1 -----> k= 15
+ 1250, Sometimes,1 -----> k= 17
+ 1250, Sometimes,1 -----> k= 19
+ 1250, Sometimes,1 -----> k= 21
+ 1250, Sometimes,1 -----> k= 23
+ 1250, Sometimes,1 -----> k= 25
+ 1250, Sometimes,1 -----> k= 27
+ 1250, Sometimes,1 -----> k= 29
+ 1250, Sometimes,1 -----> k= 31
+ 1250, Sometimes,1 -----> k= 33
+ 1250, Sometimes,1 -----> k= 35
+ 1250, Sometimes,1 -----> k= 37
+ 1250, Sometimes,1 -----> k= 39
+
+
+
+ 1250,     Often,1 -----> k= 1
+ 1250,     Often,1 -----> k= 3
+ 1250,     Often,1 -----> k= 5
+ 1250,     Often,1 -----> k= 7
+ 1250,     Often,1 -----> k= 9
+ 1250,     Often,1 -----> k= 11
+ 1250,     Often,1 -----> k= 13
+ 1250,     Often,1 -----> k= 15
+ 1250,     Often,1 -----> k= 17
+ 1250,     Often,1 -----> k= 19
+ 1250,     Often,1 -----> k= 21
+ 1250,     Often,1 -----> k= 23
+ 1250,     Often,1 -----> k= 25
+ 1250,     Often,1 -----> k= 27
+ 1250,     Often,1 -----> k= 29
+ 1250,     Often,1 -----> k= 31
+ 1250,     Often,1 -----> k= 33
+ 1250,     Often,1 -----> k= 35
+ 1250,     Often,1 -----> k= 37
+ 1250,     Often,1 -----> k= 39
+
+
+
+ 1250,Very often,1 -----> k= 1
+ 1250,Very often,1 -----> k= 3
+ 1250,Very often,1 -----> k= 5
+ 1250,Very often,1 -----> k= 7
+ 1250,Very often,1 -----> k= 9
+ 1250,Very often,1 -----> k= 11
+ 1250,Very often,1 -----> k= 13
+ 1250,Very often,1 -----> k= 15
+ 1250,Very often,1 -----> k= 17
+ 1250,Very often,1 -----> k= 19
+ 1250,Very often,1 -----> k= 21
+ 1250,Very often,1 -----> k= 23
+ 1250,Very often,1 -----> k= 25
+ 1250,Very often,1 -----> k= 27
+ 1250,Very often,1 -----> k= 29
+ 1250,Very often,1 -----> k= 31
+ 1250,Very often,1 -----> k= 33
+ 1250,Very often,1 -----> k= 35
+ 1250,Very often,1 -----> k= 37
+ 1250,Very often,1 -----> k= 39
+
+
+
+ 1300,    Rarely,1 -----> k= 1
+ 1300,    Rarely,1 -----> k= 3
+ 1300,    Rarely,1 -----> k= 5
+ 1300,    Rarely,1 -----> k= 7
+ 1300,    Rarely,1 -----> k= 9
+ 1300,    Rarely,1 -----> k= 11
+ 1300,    Rarely,1 -----> k= 13
+ 1300,    Rarely,1 -----> k= 15
+ 1300,    Rarely,1 -----> k= 17
+ 1300,    Rarely,1 -----> k= 19
+ 1300,    Rarely,1 -----> k= 21
+ 1300,    Rarely,1 -----> k= 23
+ 1300,    Rarely,1 -----> k= 25
+ 1300,    Rarely,1 -----> k= 27
+ 1300,    Rarely,0 -----> k= 29
+ 1300,    Rarely,0 -----> k= 31
+ 1300,    Rarely,1 -----> k= 33
+ 1300,    Rarely,1 -----> k= 35
+ 1300,    Rarely,1 -----> k= 37
+ 1300,    Rarely,1 -----> k= 39
+
+
+
+ 1300, Sometimes,1 -----> k= 1
+ 1300, Sometimes,1 -----> k= 3
+ 1300, Sometimes,1 -----> k= 5
+ 1300, Sometimes,1 -----> k= 7
+ 1300, Sometimes,1 -----> k= 9
+ 1300, Sometimes,1 -----> k= 11
+ 1300, Sometimes,1 -----> k= 13
+ 1300, Sometimes,1 -----> k= 15
+ 1300, Sometimes,1 -----> k= 17
+ 1300, Sometimes,1 -----> k= 19
+ 1300, Sometimes,1 -----> k= 21
+ 1300, Sometimes,1 -----> k= 23
+ 1300, Sometimes,1 -----> k= 25
+ 1300, Sometimes,1 -----> k= 27
+ 1300, Sometimes,1 -----> k= 29
+ 1300, Sometimes,1 -----> k= 31
+ 1300, Sometimes,1 -----> k= 33
+ 1300, Sometimes,1 -----> k= 35
+ 1300, Sometimes,1 -----> k= 37
+ 1300, Sometimes,1 -----> k= 39
+
+
+
+ 1300,     Often,1 -----> k= 1
+ 1300,     Often,1 -----> k= 3
+ 1300,     Often,1 -----> k= 5
+ 1300,     Often,1 -----> k= 7
+ 1300,     Often,1 -----> k= 9
+ 1300,     Often,1 -----> k= 11
+ 1300,     Often,1 -----> k= 13
+ 1300,     Often,1 -----> k= 15
+ 1300,     Often,1 -----> k= 17
+ 1300,     Often,1 -----> k= 19
+ 1300,     Often,1 -----> k= 21
+ 1300,     Often,1 -----> k= 23
+ 1300,     Often,1 -----> k= 25
+ 1300,     Often,1 -----> k= 27
+ 1300,     Often,1 -----> k= 29
+ 1300,     Often,1 -----> k= 31
+ 1300,     Often,1 -----> k= 33
+ 1300,     Often,1 -----> k= 35
+ 1300,     Often,1 -----> k= 37
+ 1300,     Often,1 -----> k= 39
+
+
+
+ 1300,Very often,1 -----> k= 1
+ 1300,Very often,1 -----> k= 3
+ 1300,Very often,1 -----> k= 5
+ 1300,Very often,1 -----> k= 7
+ 1300,Very often,1 -----> k= 9
+ 1300,Very often,1 -----> k= 11
+ 1300,Very often,1 -----> k= 13
+ 1300,Very often,1 -----> k= 15
+ 1300,Very often,1 -----> k= 17
+ 1300,Very often,1 -----> k= 19
+ 1300,Very often,1 -----> k= 21
+ 1300,Very often,1 -----> k= 23
+ 1300,Very often,1 -----> k= 25
+ 1300,Very often,1 -----> k= 27
+ 1300,Very often,1 -----> k= 29
+ 1300,Very often,1 -----> k= 31
+ 1300,Very often,1 -----> k= 33
+ 1300,Very often,1 -----> k= 35
+ 1300,Very often,1 -----> k= 37
+ 1300,Very often,1 -----> k= 39
+
+
+
+ 1350,    Rarely,1 -----> k= 1
+ 1350,    Rarely,1 -----> k= 3
+ 1350,    Rarely,1 -----> k= 5
+ 1350,    Rarely,1 -----> k= 7
+ 1350,    Rarely,1 -----> k= 9
+ 1350,    Rarely,1 -----> k= 11
+ 1350,    Rarely,1 -----> k= 13
+ 1350,    Rarely,1 -----> k= 15
+ 1350,    Rarely,1 -----> k= 17
+ 1350,    Rarely,1 -----> k= 19
+ 1350,    Rarely,1 -----> k= 21
+ 1350,    Rarely,1 -----> k= 23
+ 1350,    Rarely,1 -----> k= 25
+ 1350,    Rarely,1 -----> k= 27
+ 1350,    Rarely,0 -----> k= 29
+ 1350,    Rarely,1 -----> k= 31
+ 1350,    Rarely,1 -----> k= 33
+ 1350,    Rarely,1 -----> k= 35
+ 1350,    Rarely,1 -----> k= 37
+ 1350,    Rarely,1 -----> k= 39
+
+
+
+ 1350, Sometimes,1 -----> k= 1
+ 1350, Sometimes,1 -----> k= 3
+ 1350, Sometimes,1 -----> k= 5
+ 1350, Sometimes,1 -----> k= 7
+ 1350, Sometimes,1 -----> k= 9
+ 1350, Sometimes,1 -----> k= 11
+ 1350, Sometimes,1 -----> k= 13
+ 1350, Sometimes,1 -----> k= 15
+ 1350, Sometimes,1 -----> k= 17
+ 1350, Sometimes,1 -----> k= 19
+ 1350, Sometimes,1 -----> k= 21
+ 1350, Sometimes,1 -----> k= 23
+ 1350, Sometimes,1 -----> k= 25
+ 1350, Sometimes,1 -----> k= 27
+ 1350, Sometimes,1 -----> k= 29
+ 1350, Sometimes,1 -----> k= 31
+ 1350, Sometimes,1 -----> k= 33
+ 1350, Sometimes,1 -----> k= 35
+ 1350, Sometimes,1 -----> k= 37
+ 1350, Sometimes,1 -----> k= 39
+
+
+
+ 1350,     Often,1 -----> k= 1
+ 1350,     Often,1 -----> k= 3
+ 1350,     Often,1 -----> k= 5
+ 1350,     Often,1 -----> k= 7
+ 1350,     Often,1 -----> k= 9
+ 1350,     Often,1 -----> k= 11
+ 1350,     Often,1 -----> k= 13
+ 1350,     Often,1 -----> k= 15
+ 1350,     Often,1 -----> k= 17
+ 1350,     Often,1 -----> k= 19
+ 1350,     Often,1 -----> k= 21
+ 1350,     Often,1 -----> k= 23
+ 1350,     Often,1 -----> k= 25
+ 1350,     Often,1 -----> k= 27
+ 1350,     Often,1 -----> k= 29
+ 1350,     Often,1 -----> k= 31
+ 1350,     Often,1 -----> k= 33
+ 1350,     Often,1 -----> k= 35
+ 1350,     Often,1 -----> k= 37
+ 1350,     Often,1 -----> k= 39
+
+
+
+ 1350,Very often,1 -----> k= 1
+ 1350,Very often,1 -----> k= 3
+ 1350,Very often,1 -----> k= 5
+ 1350,Very often,1 -----> k= 7
+ 1350,Very often,1 -----> k= 9
+ 1350,Very often,1 -----> k= 11
+ 1350,Very often,1 -----> k= 13
+ 1350,Very often,1 -----> k= 15
+ 1350,Very often,1 -----> k= 17
+ 1350,Very often,1 -----> k= 19
+ 1350,Very often,1 -----> k= 21
+ 1350,Very often,1 -----> k= 23
+ 1350,Very often,1 -----> k= 25
+ 1350,Very often,1 -----> k= 27
+ 1350,Very often,1 -----> k= 29
+ 1350,Very often,1 -----> k= 31
+ 1350,Very often,1 -----> k= 33
+ 1350,Very often,1 -----> k= 35
+ 1350,Very often,1 -----> k= 37
+ 1350,Very often,1 -----> k= 39
+
+
+
+ 1400,    Rarely,1 -----> k= 1
+ 1400,    Rarely,1 -----> k= 3
+ 1400,    Rarely,1 -----> k= 5
+ 1400,    Rarely,1 -----> k= 7
+ 1400,    Rarely,1 -----> k= 9
+ 1400,    Rarely,1 -----> k= 11
+ 1400,    Rarely,1 -----> k= 13
+ 1400,    Rarely,1 -----> k= 15
+ 1400,    Rarely,1 -----> k= 17
+ 1400,    Rarely,1 -----> k= 19
+ 1400,    Rarely,1 -----> k= 21
+ 1400,    Rarely,1 -----> k= 23
+ 1400,    Rarely,1 -----> k= 25
+ 1400,    Rarely,1 -----> k= 27
+ 1400,    Rarely,1 -----> k= 29
+ 1400,    Rarely,1 -----> k= 31
+ 1400,    Rarely,1 -----> k= 33
+ 1400,    Rarely,1 -----> k= 35
+ 1400,    Rarely,1 -----> k= 37
+ 1400,    Rarely,1 -----> k= 39
+
+
+
+ 1400, Sometimes,1 -----> k= 1
+ 1400, Sometimes,1 -----> k= 3
+ 1400, Sometimes,1 -----> k= 5
+ 1400, Sometimes,1 -----> k= 7
+ 1400, Sometimes,1 -----> k= 9
+ 1400, Sometimes,1 -----> k= 11
+ 1400, Sometimes,1 -----> k= 13
+ 1400, Sometimes,1 -----> k= 15
+ 1400, Sometimes,1 -----> k= 17
+ 1400, Sometimes,1 -----> k= 19
+ 1400, Sometimes,1 -----> k= 21
+ 1400, Sometimes,1 -----> k= 23
+ 1400, Sometimes,1 -----> k= 25
+ 1400, Sometimes,1 -----> k= 27
+ 1400, Sometimes,1 -----> k= 29
+ 1400, Sometimes,1 -----> k= 31
+ 1400, Sometimes,1 -----> k= 33
+ 1400, Sometimes,1 -----> k= 35
+ 1400, Sometimes,1 -----> k= 37
+ 1400, Sometimes,1 -----> k= 39
+
+
+
+ 1400,     Often,1 -----> k= 1
+ 1400,     Often,1 -----> k= 3
+ 1400,     Often,1 -----> k= 5
+ 1400,     Often,1 -----> k= 7
+ 1400,     Often,1 -----> k= 9
+ 1400,     Often,1 -----> k= 11
+ 1400,     Often,1 -----> k= 13
+ 1400,     Often,1 -----> k= 15
+ 1400,     Often,1 -----> k= 17
+ 1400,     Often,1 -----> k= 19
+ 1400,     Often,1 -----> k= 21
+ 1400,     Often,1 -----> k= 23
+ 1400,     Often,1 -----> k= 25
+ 1400,     Often,1 -----> k= 27
+ 1400,     Often,1 -----> k= 29
+ 1400,     Often,1 -----> k= 31
+ 1400,     Often,1 -----> k= 33
+ 1400,     Often,1 -----> k= 35
+ 1400,     Often,1 -----> k= 37
+ 1400,     Often,1 -----> k= 39
+
+
+
+ 1400,Very often,1 -----> k= 1
+ 1400,Very often,1 -----> k= 3
+ 1400,Very often,1 -----> k= 5
+ 1400,Very often,1 -----> k= 7
+ 1400,Very often,1 -----> k= 9
+ 1400,Very often,1 -----> k= 11
+ 1400,Very often,1 -----> k= 13
+ 1400,Very often,1 -----> k= 15
+ 1400,Very often,1 -----> k= 17
+ 1400,Very often,1 -----> k= 19
+ 1400,Very often,1 -----> k= 21
+ 1400,Very often,1 -----> k= 23
+ 1400,Very often,1 -----> k= 25
+ 1400,Very often,1 -----> k= 27
+ 1400,Very often,1 -----> k= 29
+ 1400,Very often,1 -----> k= 31
+ 1400,Very often,1 -----> k= 33
+ 1400,Very often,1 -----> k= 35
+ 1400,Very often,1 -----> k= 37
+ 1400,Very often,1 -----> k= 39
+
+
+
+ 1450,    Rarely,1 -----> k= 1
+ 1450,    Rarely,1 -----> k= 3
+ 1450,    Rarely,1 -----> k= 5
+ 1450,    Rarely,1 -----> k= 7
+ 1450,    Rarely,1 -----> k= 9
+ 1450,    Rarely,1 -----> k= 11
+ 1450,    Rarely,1 -----> k= 13
+ 1450,    Rarely,1 -----> k= 15
+ 1450,    Rarely,1 -----> k= 17
+ 1450,    Rarely,1 -----> k= 19
+ 1450,    Rarely,1 -----> k= 21
+ 1450,    Rarely,1 -----> k= 23
+ 1450,    Rarely,1 -----> k= 25
+ 1450,    Rarely,1 -----> k= 27
+ 1450,    Rarely,1 -----> k= 29
+ 1450,    Rarely,1 -----> k= 31
+ 1450,    Rarely,1 -----> k= 33
+ 1450,    Rarely,1 -----> k= 35
+ 1450,    Rarely,1 -----> k= 37
+ 1450,    Rarely,1 -----> k= 39
+
+
+
+ 1450, Sometimes,1 -----> k= 1
+ 1450, Sometimes,1 -----> k= 3
+ 1450, Sometimes,1 -----> k= 5
+ 1450, Sometimes,1 -----> k= 7
+ 1450, Sometimes,1 -----> k= 9
+ 1450, Sometimes,1 -----> k= 11
+ 1450, Sometimes,1 -----> k= 13
+ 1450, Sometimes,1 -----> k= 15
+ 1450, Sometimes,1 -----> k= 17
+ 1450, Sometimes,1 -----> k= 19
+ 1450, Sometimes,1 -----> k= 21
+ 1450, Sometimes,1 -----> k= 23
+ 1450, Sometimes,1 -----> k= 25
+ 1450, Sometimes,1 -----> k= 27
+ 1450, Sometimes,1 -----> k= 29
+ 1450, Sometimes,1 -----> k= 31
+ 1450, Sometimes,1 -----> k= 33
+ 1450, Sometimes,1 -----> k= 35
+ 1450, Sometimes,1 -----> k= 37
+ 1450, Sometimes,1 -----> k= 39
+
+
+
+ 1450,     Often,1 -----> k= 1
+ 1450,     Often,1 -----> k= 3
+ 1450,     Often,1 -----> k= 5
+ 1450,     Often,1 -----> k= 7
+ 1450,     Often,1 -----> k= 9
+ 1450,     Often,1 -----> k= 11
+ 1450,     Often,1 -----> k= 13
+ 1450,     Often,1 -----> k= 15
+ 1450,     Often,1 -----> k= 17
+ 1450,     Often,1 -----> k= 19
+ 1450,     Often,1 -----> k= 21
+ 1450,     Often,1 -----> k= 23
+ 1450,     Often,1 -----> k= 25
+ 1450,     Often,1 -----> k= 27
+ 1450,     Often,1 -----> k= 29
+ 1450,     Often,1 -----> k= 31
+ 1450,     Often,1 -----> k= 33
+ 1450,     Often,1 -----> k= 35
+ 1450,     Often,1 -----> k= 37
+ 1450,     Often,1 -----> k= 39
+
+
+
+ 1450,Very often,1 -----> k= 1
+ 1450,Very often,1 -----> k= 3
+ 1450,Very often,1 -----> k= 5
+ 1450,Very often,1 -----> k= 7
+ 1450,Very often,1 -----> k= 9
+ 1450,Very often,1 -----> k= 11
+ 1450,Very often,1 -----> k= 13
+ 1450,Very often,1 -----> k= 15
+ 1450,Very often,1 -----> k= 17
+ 1450,Very often,1 -----> k= 19
+ 1450,Very often,1 -----> k= 21
+ 1450,Very often,1 -----> k= 23
+ 1450,Very often,1 -----> k= 25
+ 1450,Very often,1 -----> k= 27
+ 1450,Very often,1 -----> k= 29
+ 1450,Very often,1 -----> k= 31
+ 1450,Very often,1 -----> k= 33
+ 1450,Very often,1 -----> k= 35
+ 1450,Very often,1 -----> k= 37
+ 1450,Very often,1 -----> k= 39
+
+
+
+ 1500,    Rarely,1 -----> k= 1
+ 1500,    Rarely,1 -----> k= 3
+ 1500,    Rarely,1 -----> k= 5
+ 1500,    Rarely,1 -----> k= 7
+ 1500,    Rarely,1 -----> k= 9
+ 1500,    Rarely,1 -----> k= 11
+ 1500,    Rarely,1 -----> k= 13
+ 1500,    Rarely,1 -----> k= 15
+ 1500,    Rarely,1 -----> k= 17
+ 1500,    Rarely,1 -----> k= 19
+ 1500,    Rarely,1 -----> k= 21
+ 1500,    Rarely,1 -----> k= 23
+ 1500,    Rarely,1 -----> k= 25
+ 1500,    Rarely,1 -----> k= 27
+ 1500,    Rarely,1 -----> k= 29
+ 1500,    Rarely,1 -----> k= 31
+ 1500,    Rarely,1 -----> k= 33
+ 1500,    Rarely,1 -----> k= 35
+ 1500,    Rarely,1 -----> k= 37
+ 1500,    Rarely,1 -----> k= 39
+
+
+
+ 1500, Sometimes,1 -----> k= 1
+ 1500, Sometimes,1 -----> k= 3
+ 1500, Sometimes,1 -----> k= 5
+ 1500, Sometimes,1 -----> k= 7
+ 1500, Sometimes,1 -----> k= 9
+ 1500, Sometimes,1 -----> k= 11
+ 1500, Sometimes,1 -----> k= 13
+ 1500, Sometimes,1 -----> k= 15
+ 1500, Sometimes,1 -----> k= 17
+ 1500, Sometimes,1 -----> k= 19
+ 1500, Sometimes,1 -----> k= 21
+ 1500, Sometimes,1 -----> k= 23
+ 1500, Sometimes,1 -----> k= 25
+ 1500, Sometimes,1 -----> k= 27
+ 1500, Sometimes,1 -----> k= 29
+ 1500, Sometimes,1 -----> k= 31
+ 1500, Sometimes,1 -----> k= 33
+ 1500, Sometimes,1 -----> k= 35
+ 1500, Sometimes,1 -----> k= 37
+ 1500, Sometimes,1 -----> k= 39
+
+
+
+ 1500,     Often,1 -----> k= 1
+ 1500,     Often,1 -----> k= 3
+ 1500,     Often,1 -----> k= 5
+ 1500,     Often,1 -----> k= 7
+ 1500,     Often,1 -----> k= 9
+ 1500,     Often,1 -----> k= 11
+ 1500,     Often,1 -----> k= 13
+ 1500,     Often,1 -----> k= 15
+ 1500,     Often,1 -----> k= 17
+ 1500,     Often,1 -----> k= 19
+ 1500,     Often,1 -----> k= 21
+ 1500,     Often,1 -----> k= 23
+ 1500,     Often,1 -----> k= 25
+ 1500,     Often,1 -----> k= 27
+ 1500,     Often,1 -----> k= 29
+ 1500,     Often,1 -----> k= 31
+ 1500,     Often,1 -----> k= 33
+ 1500,     Often,1 -----> k= 35
+ 1500,     Often,1 -----> k= 37
+ 1500,     Often,1 -----> k= 39
+
+
+
+ 1500,Very often,1 -----> k= 1
+ 1500,Very often,1 -----> k= 3
+ 1500,Very often,1 -----> k= 5
+ 1500,Very often,1 -----> k= 7
+ 1500,Very often,1 -----> k= 9
+ 1500,Very often,1 -----> k= 11
+ 1500,Very often,1 -----> k= 13
+ 1500,Very often,1 -----> k= 15
+ 1500,Very often,1 -----> k= 17
+ 1500,Very often,1 -----> k= 19
+ 1500,Very often,1 -----> k= 21
+ 1500,Very often,1 -----> k= 23
+ 1500,Very often,1 -----> k= 25
+ 1500,Very often,1 -----> k= 27
+ 1500,Very often,1 -----> k= 29
+ 1500,Very often,1 -----> k= 31
+ 1500,Very often,1 -----> k= 33
+ 1500,Very often,1 -----> k= 35
+ 1500,Very often,1 -----> k= 37
+ 1500,Very often,1 -----> k= 39
+
+
+
+ 1550,    Rarely,1 -----> k= 1
+ 1550,    Rarely,1 -----> k= 3
+ 1550,    Rarely,1 -----> k= 5
+ 1550,    Rarely,1 -----> k= 7
+ 1550,    Rarely,1 -----> k= 9
+ 1550,    Rarely,1 -----> k= 11
+ 1550,    Rarely,1 -----> k= 13
+ 1550,    Rarely,1 -----> k= 15
+ 1550,    Rarely,1 -----> k= 17
+ 1550,    Rarely,1 -----> k= 19
+ 1550,    Rarely,1 -----> k= 21
+ 1550,    Rarely,1 -----> k= 23
+ 1550,    Rarely,1 -----> k= 25
+ 1550,    Rarely,1 -----> k= 27
+ 1550,    Rarely,1 -----> k= 29
+ 1550,    Rarely,1 -----> k= 31
+ 1550,    Rarely,1 -----> k= 33
+ 1550,    Rarely,1 -----> k= 35
+ 1550,    Rarely,1 -----> k= 37
+ 1550,    Rarely,1 -----> k= 39
+
+
+
+ 1550, Sometimes,1 -----> k= 1
+ 1550, Sometimes,1 -----> k= 3
+ 1550, Sometimes,1 -----> k= 5
+ 1550, Sometimes,1 -----> k= 7
+ 1550, Sometimes,1 -----> k= 9
+ 1550, Sometimes,1 -----> k= 11
+ 1550, Sometimes,1 -----> k= 13
+ 1550, Sometimes,1 -----> k= 15
+ 1550, Sometimes,1 -----> k= 17
+ 1550, Sometimes,1 -----> k= 19
+ 1550, Sometimes,1 -----> k= 21
+ 1550, Sometimes,1 -----> k= 23
+ 1550, Sometimes,1 -----> k= 25
+ 1550, Sometimes,1 -----> k= 27
+ 1550, Sometimes,1 -----> k= 29
+ 1550, Sometimes,1 -----> k= 31
+ 1550, Sometimes,1 -----> k= 33
+ 1550, Sometimes,1 -----> k= 35
+ 1550, Sometimes,1 -----> k= 37
+ 1550, Sometimes,1 -----> k= 39
+
+
+
+ 1550,     Often,1 -----> k= 1
+ 1550,     Often,1 -----> k= 3
+ 1550,     Often,1 -----> k= 5
+ 1550,     Often,1 -----> k= 7
+ 1550,     Often,1 -----> k= 9
+ 1550,     Often,1 -----> k= 11
+ 1550,     Often,1 -----> k= 13
+ 1550,     Often,1 -----> k= 15
+ 1550,     Often,1 -----> k= 17
+ 1550,     Often,1 -----> k= 19
+ 1550,     Often,1 -----> k= 21
+ 1550,     Often,1 -----> k= 23
+ 1550,     Often,1 -----> k= 25
+ 1550,     Often,1 -----> k= 27
+ 1550,     Often,1 -----> k= 29
+ 1550,     Often,1 -----> k= 31
+ 1550,     Often,1 -----> k= 33
+ 1550,     Often,1 -----> k= 35
+ 1550,     Often,1 -----> k= 37
+ 1550,     Often,1 -----> k= 39
+
+
+
+ 1550,Very often,1 -----> k= 1
+ 1550,Very often,1 -----> k= 3
+ 1550,Very often,1 -----> k= 5
+ 1550,Very often,1 -----> k= 7
+ 1550,Very often,1 -----> k= 9
+ 1550,Very often,1 -----> k= 11
+ 1550,Very often,1 -----> k= 13
+ 1550,Very often,1 -----> k= 15
+ 1550,Very often,1 -----> k= 17
+ 1550,Very often,1 -----> k= 19
+ 1550,Very often,1 -----> k= 21
+ 1550,Very often,1 -----> k= 23
+ 1550,Very often,1 -----> k= 25
+ 1550,Very often,1 -----> k= 27
+ 1550,Very often,1 -----> k= 29
+ 1550,Very often,1 -----> k= 31
+ 1550,Very often,1 -----> k= 33
+ 1550,Very often,1 -----> k= 35
+ 1550,Very often,1 -----> k= 37
+ 1550,Very often,1 -----> k= 39
+
+
+
+ 1600,    Rarely,1 -----> k= 1
+ 1600,    Rarely,1 -----> k= 3
+ 1600,    Rarely,1 -----> k= 5
+ 1600,    Rarely,1 -----> k= 7
+ 1600,    Rarely,1 -----> k= 9
+ 1600,    Rarely,1 -----> k= 11
+ 1600,    Rarely,1 -----> k= 13
+ 1600,    Rarely,1 -----> k= 15
+ 1600,    Rarely,1 -----> k= 17
+ 1600,    Rarely,1 -----> k= 19
+ 1600,    Rarely,1 -----> k= 21
+ 1600,    Rarely,1 -----> k= 23
+ 1600,    Rarely,1 -----> k= 25
+ 1600,    Rarely,1 -----> k= 27
+ 1600,    Rarely,1 -----> k= 29
+ 1600,    Rarely,1 -----> k= 31
+ 1600,    Rarely,1 -----> k= 33
+ 1600,    Rarely,1 -----> k= 35
+ 1600,    Rarely,1 -----> k= 37
+ 1600,    Rarely,1 -----> k= 39
+
+
+
+ 1600, Sometimes,1 -----> k= 1
+ 1600, Sometimes,1 -----> k= 3
+ 1600, Sometimes,1 -----> k= 5
+ 1600, Sometimes,1 -----> k= 7
+ 1600, Sometimes,1 -----> k= 9
+ 1600, Sometimes,1 -----> k= 11
+ 1600, Sometimes,1 -----> k= 13
+ 1600, Sometimes,1 -----> k= 15
+ 1600, Sometimes,1 -----> k= 17
+ 1600, Sometimes,1 -----> k= 19
+ 1600, Sometimes,1 -----> k= 21
+ 1600, Sometimes,1 -----> k= 23
+ 1600, Sometimes,1 -----> k= 25
+ 1600, Sometimes,1 -----> k= 27
+ 1600, Sometimes,1 -----> k= 29
+ 1600, Sometimes,1 -----> k= 31
+ 1600, Sometimes,1 -----> k= 33
+ 1600, Sometimes,1 -----> k= 35
+ 1600, Sometimes,1 -----> k= 37
+ 1600, Sometimes,1 -----> k= 39
+
+
+
+ 1600,     Often,1 -----> k= 1
+ 1600,     Often,1 -----> k= 3
+ 1600,     Often,1 -----> k= 5
+ 1600,     Often,1 -----> k= 7
+ 1600,     Often,1 -----> k= 9
+ 1600,     Often,1 -----> k= 11
+ 1600,     Often,1 -----> k= 13
+ 1600,     Often,1 -----> k= 15
+ 1600,     Often,1 -----> k= 17
+ 1600,     Often,1 -----> k= 19
+ 1600,     Often,1 -----> k= 21
+ 1600,     Often,1 -----> k= 23
+ 1600,     Often,1 -----> k= 25
+ 1600,     Often,1 -----> k= 27
+ 1600,     Often,1 -----> k= 29
+ 1600,     Often,1 -----> k= 31
+ 1600,     Often,1 -----> k= 33
+ 1600,     Often,1 -----> k= 35
+ 1600,     Often,1 -----> k= 37
+ 1600,     Often,1 -----> k= 39
+
+
+
+ 1600,Very often,1 -----> k= 1
+ 1600,Very often,1 -----> k= 3
+ 1600,Very often,1 -----> k= 5
+ 1600,Very often,1 -----> k= 7
+ 1600,Very often,1 -----> k= 9
+ 1600,Very often,1 -----> k= 11
+ 1600,Very often,1 -----> k= 13
+ 1600,Very often,1 -----> k= 15
+ 1600,Very often,1 -----> k= 17
+ 1600,Very often,1 -----> k= 19
+ 1600,Very often,1 -----> k= 21
+ 1600,Very often,1 -----> k= 23
+ 1600,Very often,1 -----> k= 25
+ 1600,Very often,1 -----> k= 27
+ 1600,Very often,1 -----> k= 29
+ 1600,Very often,1 -----> k= 31
+ 1600,Very often,1 -----> k= 33
+ 1600,Very often,1 -----> k= 35
+ 1600,Very often,1 -----> k= 37
+ 1600,Very often,1 -----> k= 39
+
+
+

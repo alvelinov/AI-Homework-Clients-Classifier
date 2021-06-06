@@ -8,7 +8,6 @@
 #include <cmath>
 #include <ctime>
 
-
 enum ExpenseFrequency {
     Never,
     Rarely,
@@ -75,6 +74,7 @@ void initializeData(std::vector<Client>& clients, const std::string& filename, i
         Client client;
 
         std::stringstream s(buf);
+
         getline(s, segment, ';');
         client.expenses = std::stoi(segment);
         if (client.expenses > max)
@@ -98,6 +98,7 @@ void initializeData(std::vector<Client>& clients, const std::string& filename, i
             client.frequency = Rarely;
             break;
         }
+        
 
         getline(s, segment);
         if (segment[0] == '1')
@@ -105,14 +106,13 @@ void initializeData(std::vector<Client>& clients, const std::string& filename, i
         else
             client.discount = false;
 
-
         clients.push_back(client);
     }
 }
 
 double normalizedDistanceBetween(const Client& c1, const Client& c2, int& min, int& max) {
-    double normalizedExpense1 = ((double)c1.expenses - min) / ((double)max - min);
-    double normalizedExpense2 = ((double)c2.expenses - min) / ((double)max - min);
+    double normalizedExpense1 = ((double)c1.expenses - min) / ((double)max - (double)min);
+    double normalizedExpense2 = ((double)c2.expenses - min) / ((double)max - (double)min);
 
     double normalizedFrequency1 = ((double)c1.frequency - (int)Rarely) / ((double)VeryOften - (int)Rarely);
     double normalizedFrequency2 = ((double)c2.frequency - (int)Rarely) / ((double)VeryOften - (int)Rarely);
@@ -123,9 +123,19 @@ double normalizedDistanceBetween(const Client& c1, const Client& c2, int& min, i
     return std::sqrt(sqDist1 + sqDist2);
 }
 
+void normalizeData(std::vector<Client>& clients, const Client& client, int& min, int& max,
+    std::priority_queue<Pair, std::vector<Pair>, std::greater<Pair> >& q)
+{
+    for (std::vector<Client>::iterator it = clients.begin(); it != clients.end(); ++it) {
+        Client current = *it;
+        q.push({ current, normalizedDistanceBetween(current, client, min, max) });
+    }
+}
+
 bool majority(int k, std::priority_queue<Pair, std::vector<Pair>, std::greater<Pair> >& q)
 {
     unsigned ones = 0, zeros = 0;
+    Client firstClient = q.top().client;
 
     while (k > 0) {
         Client c = q.top().client;
@@ -161,18 +171,9 @@ bool majority(int k, std::priority_queue<Pair, std::vector<Pair>, std::greater<P
     }
 
     if (zeros == ones)
-        return rand() % 2;
+        return firstClient.discount;
 
     return ones > zeros;
-}
-
-void normalizeData(std::vector<Client>& clients, const Client& client, int& min, int& max,
-    std::priority_queue<Pair, std::vector<Pair>, std::greater<Pair> >& q)
-{
-    for (std::vector<Client>::iterator it = clients.begin(); it != clients.end(); ++it) {
-        Client current = *it;
-        q.push({ current, normalizedDistanceBetween(current, client, min, max) });
-    }
 }
 
 int main()
@@ -182,6 +183,7 @@ int main()
     int min = INT_MAX, max = INT_MIN;
     std::vector<Client> clients;
     std::priority_queue<Pair, std::vector<Pair>, std::greater<Pair>> clientQueue;
+    
     
     // test data
     int k = 7;
@@ -193,7 +195,45 @@ int main()
 
     std::cout << "\n\nTest case classified: \n";
     std::cout << testClient << std::endl;
+    
 
+    /*
+    initializeData(clients, "Data.csv", min, max);
+
+    std::ofstream oFile("testResults.txt", std::ios::app);
+    for (int exp = 600; exp <= 1600; exp += 50) {
+        for (int freq = 1; freq <= 4; freq++) {
+            for (int k = 1; k <= 39; k += 2) {
+                Client testClient(exp, (ExpenseFrequency)freq);
+                normalizeData(clients, testClient, min, max, clientQueue);
+                testClient.discount = majority(k, clientQueue);
+                
+                oFile << std::setw(5) << testClient.expenses << ',';
+                switch (testClient.frequency) {
+                case Rarely:
+                    oFile << std::setw(10) << "Rarely";
+                    break;
+                case Sometimes:
+                    oFile << std::setw(10) << "Sometimes";
+                    break;
+                case Often:
+                    oFile << std::setw(10) << "Often";
+                    break;
+                case VeryOften:
+                    oFile << std::setw(10) << "Very often";
+                    break;
+                default:
+                    oFile << std::setw(10) << "Never";
+                };
+                oFile << ',' << testClient.discount << " -----> " << "k= " << k << '\n';
+
+                std::priority_queue<Pair, std::vector<Pair>, std::greater<Pair>> emptyQueue;
+                clientQueue = emptyQueue;
+            }
+            oFile << "\n\n\n";
+        }
+    }
+    */
     return 0;
 }
 
